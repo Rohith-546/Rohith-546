@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohith-546
-- 👀 I’m interested in programming, app development
+- 👀 I’m interested in programming, web development
 - 🌱 I’m currently learning python
 - 📫 How to reach me -- 197r1a0546@gmail.com
 
