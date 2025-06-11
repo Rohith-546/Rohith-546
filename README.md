@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Web and App Development**
 
-- 👨‍💻 Portfolio : [http://rohithchoudhary.me/portfolio/](http://rohithchoudhary.me/portfolio/)
 
 - 📫 How to reach me **197r1a0546@gmail.com**
 
